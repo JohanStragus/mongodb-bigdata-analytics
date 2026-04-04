@@ -1,4 +1,5 @@
 # 🚀 MongoDB Big Data Analytics
+![MongoDB](https://img.shields.io/badge/Built%20with-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Sistema de análisis de datos en la nube utilizando MongoDB Atlas, enfocado en la monitorización de flotas en tiempo real mediante datos simulados de sensores IoT.
 
