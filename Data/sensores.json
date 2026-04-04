@@ -1,0 +1,184 @@
+[
+    {
+        "v_id": "TRK-001",
+        "reg": "CAT-1234",
+        "driver": {
+            "name": "Joan P.",
+            "exp": 12
+        },
+        "route": "BCN-PAR",
+        "sensors": {
+            "v_kmh": 95,
+            "rpm": 2100,
+            "temp_c": 92,
+            "cargo_temp": -18.2,
+            "fuel": 75
+        },
+        "status": "In Transit",
+        "security": {
+            "tls": "v1.3",
+            "masked": false
+        },
+        "loc": [
+            2.17,
+            41.38
+        ],
+        "ts": "2026-03-03T10:00:00Z"
+    },
+    {
+        "v_id": "TRK-002",
+        "reg": "MAD-5678",
+        "driver": {
+            "name": "Marta R.",
+            "exp": 5
+        },
+        "route": "MAD-LIS",
+        "sensors": {
+            "v_kmh": 115,
+            "rpm": 2800,
+            "temp_c": 105,
+            "cargo_temp": -4.5,
+            "fuel": 30
+        },
+        "status": "Critical: Speeding",
+        "security": {
+            "tls": "v1.3",
+            "masked": true
+        },
+        "loc": [
+            -3.7,
+            40.41
+        ],
+        "ts": "2026-03-03T10:05:00Z"
+    },
+    {
+        "v_id": "TRK-003",
+        "reg": "VAL-9012",
+        "driver": {
+            "name": "Pere S.",
+            "exp": 20
+        },
+        "route": "VAL-MIL",
+        "sensors": {
+            "v_kmh": 82,
+            "rpm": 1900,
+            "temp_c": 85,
+            "cargo_temp": 4.1,
+            "fuel": 90
+        },
+        "status": "In Transit",
+        "security": {
+            "tls": "v1.2",
+            "masked": false
+        },
+        "loc": [
+            -0.37,
+            39.46
+        ],
+        "ts": "2026-03-03T10:10:00Z"
+    },
+    {
+        "v_id": "TRK-004",
+        "reg": "BCN-3344",
+        "driver": {
+            "name": "Laia T.",
+            "exp": 2
+        },
+        "route": "BCN-LON",
+        "sensors": {
+            "v_kmh": 125,
+            "rpm": 3200,
+            "temp_c": 110,
+            "cargo_temp": -20.0,
+            "fuel": 15
+        },
+        "status": "Critical: Temp & Speed",
+        "security": {
+            "tls": "v1.3",
+            "masked": true
+        },
+        "loc": [
+            2.15,
+            41.4
+        ],
+        "ts": "2026-03-03T10:15:00Z"
+    },
+    {
+        "v_id": "TRK-005",
+        "reg": "GER-7788",
+        "driver": {
+            "name": "Hans M.",
+            "exp": 15
+        },
+        "route": "BER-BCN",
+        "sensors": {
+            "v_kmh": 88,
+            "rpm": 2000,
+            "temp_c": 88,
+            "cargo_temp": -19.5,
+            "fuel": 55
+        },
+        "status": "In Transit",
+        "security": {
+            "tls": "v1.3",
+            "masked": false
+        },
+        "loc": [
+            13.4,
+            52.52
+        ],
+        "ts": "2026-03-03T10:20:00Z"
+    },
+    {
+        "v_id": "TRK-006",
+        "reg": "FRA-2211",
+        "driver": {
+            "name": "Julie L.",
+            "exp": 8
+        },
+        "route": "PAR-LYO",
+        "sensors": {
+            "v_kmh": 102,
+            "rpm": 2400,
+            "temp_c": 95,
+            "cargo_temp": -12.0,
+            "fuel": 40
+        },
+        "status": "In Transit",
+        "security": {
+            "tls": "v1.3",
+            "masked": false
+        },
+        "loc": [
+            2.35,
+            48.85
+        ],
+        "ts": "2026-03-03T10:25:00Z"
+    },
+    {
+        "v_id": "TRK-007",
+        "reg": "ROM-4455",
+        "driver": {
+            "name": "Luca V.",
+            "exp": 1
+        },
+        "route": "ROM-NAP",
+        "sensors": {
+            "v_kmh": 130,
+            "rpm": 3500,
+            "temp_c": 115,
+            "cargo_temp": 10.0,
+            "fuel": 10
+        },
+        "status": "Emergency",
+        "security": {
+            "tls": "v1.1",
+            "masked": true
+        },
+        "loc": [
+            12.49,
+            41.89
+        ],
+        "ts": "2026-03-03T10:30:00Z"
+    }
+]
